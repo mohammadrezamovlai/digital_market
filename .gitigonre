@@ -1,0 +1,25 @@
+# محیط مجازی
+venv/
+env/
+.venv/
+
+# جنگو
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+/static/
+
+# تنظیمات محلی
+local_settings.py
+.env
+*.local
+
+# اید‌ها
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# نوت‌های شخصی
+notes.txt
